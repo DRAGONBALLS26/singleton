@@ -1,0 +1,4 @@
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pattern.csprojAssemblyReference.cache
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Pattern.csproj.CoreCompileInputs.cache

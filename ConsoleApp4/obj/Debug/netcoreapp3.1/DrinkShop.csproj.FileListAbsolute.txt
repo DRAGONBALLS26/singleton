@@ -1,0 +1,12 @@
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\DrinkShop.exe
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\DrinkShop.deps.json
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\DrinkShop.runtimeconfig.json
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\DrinkShop.runtimeconfig.dev.json
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\DrinkShop.dll
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\DrinkShop.pdb
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\DrinkShop.AssemblyInfoInputs.cache
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\DrinkShop.AssemblyInfo.cs
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\DrinkShop.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\DrinkShop.dll
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\DrinkShop.pdb
+C:\Users\Dragomir\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\DrinkShop.genruntimeconfig.cache
